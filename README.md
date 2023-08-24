@@ -1,4 +1,4 @@
-# python-lab
+# Python-Lab
 
 <<<<<<< HEAD
 # Comments
@@ -29,12 +29,14 @@ print(type(Y)) # Prints "<class 'float'>"
 print(type(Z)) # Prints "<class 'str'>"
 ```
 =======
+# Projects
 1. Mad-Libs
-2. Guess the Number
-3. Rock, Paper, Scissors
-4. Generate QR Code [https://www.analyticsvidhya.com/blog/2021/07/3-interesting-python-projects-with-code-for-beginners]
-5. Convert Image to Pencil Sketch [https://www.analyticsvidhya.com/blog/2021/07/3-interesting-python-projects-with-code-for-beginners]
-6. 
+1. Cowsay
+1. Generate QR Code [https://www.analyticsvidhya.com/blog/2021/07/3-interesting-python-projects-with-code-for-beginners]
+1. Guess the Number
+1. Rock, Paper, Scissors
+1. Convert Image to Pencil Sketch [https://www.analyticsvidhya.com/blog/2021/07/3-interesting-python-projects-with-code-for-beginners]
+1. 
 
 
 ## Using the Python shell ##
